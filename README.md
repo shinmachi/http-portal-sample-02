@@ -1,4 +1,4 @@
-# https-portal をローカルで試す
+# https-portal をローカル環境で試す
 - 動作環境: Mac OS
 - 参考元
   - https://blog.kai-lab.com/local_ssl_with_https_portal/
@@ -8,6 +8,9 @@
 ```
 $ docker-compose build && docker-compose up -d
 ```
+
+# 確認
+- https://test.local
 
 # default.conf
 - 必要最小限の設定です。 
